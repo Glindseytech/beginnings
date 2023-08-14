@@ -1,0 +1,27 @@
+body {
+  Background-color: green; 
+}
+
+h1 {
+  color: indigo;
+  font-size: 45px;
+  font-family: Consolas, sans-serif, Helvetica;
+}
+
+img{
+  width: 100%
+}
+
+.header{
+  border: 2px solid pink;
+  padding-left: 40px;
+  background-color: aqua;
+}
+
+.footer{
+  background-color: white;
+}
+
+div{
+  border: 2px solid pink;
+}
